@@ -14,5 +14,6 @@
 
     <!-- Whether to show min refresh rate in display settings -->
     <bool name="config_show_refresh_rate_controls">true</bool>
+    <integer name="config_defaultRefreshRate">90</integer>
 
 </resources>
