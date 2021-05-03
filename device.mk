@@ -168,8 +168,9 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.qti \
     libdisplayconfig.qti.vendor \
     libqdMetaData \
-    libsdmcore \
-    libsdmutils \
+    hwcomposer.kona \
+    gralloc.kona \
+    gralloc.default \
     libtinyxml \
     libvulkan \
     memtrack.kona \
