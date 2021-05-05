@@ -36,3 +36,7 @@ persist.vendor.dpm.feature=1
 
 # Use Vulkan backend for Skia UI rendering
 debug.hwui.renderer=skiavk
+
+# Wi-fi display
+persist.debug.wfd.enable=1
+persist.sys.wfd.virtual=0
